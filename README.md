@@ -1,4 +1,4 @@
 SICP
 ====
 
-Scheme exercises for the bool Structure and Interpretation of Computer Programs 
+Scheme exercises for the book Structure and Interpretation of Computer Programs 
